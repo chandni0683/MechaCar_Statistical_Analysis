@@ -20,3 +20,14 @@ The above result show that the variance is 62.29356. The below result shows that
 
 ## T-Test on Suspension coils
 
+Below are the result for t-tests for suspension coils for all manufactured lots:
+
+<img width="811" alt="Screen Shot 2021-10-03 at 2 48 13 PM" src="https://user-images.githubusercontent.com/85711507/135769347-425a7ec6-a75f-4820-9529-b43a2068e4c0.png">
+
+We can see that the sample mean is same as the population mean of 1500 PSI. But when the t-test is done on individual lots, lot 1 and lot 2 are not different statistically. The population mean and p value is of 1 and 0.6. Only Lot 3 has a mean which is different from the population mean and p value which is 0.4.
+
+## Study Design: MechaCar Vs Competition
+The metrics that would be of interest to a consumer like cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating. We need to test the differences between MechaCar and the competing models. 
+The null hypothesis can be that the above observables dont vary from the competition.
+The alternative hypothesis can be MechaCar varies in these observables significantly from the competition.
+We need to test these observable like cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating. The T-test should be performed so that we can analyze the difference between MechaChar and Competition variable values. For this we will need additional data so that we can perform these tests.
