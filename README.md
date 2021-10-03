@@ -10,5 +10,8 @@ A Linear regression was performed using lm() function. The variables that were u
 <img width="814" alt="Screen Shot 2021-09-23 at 6 28 39 PM" src="https://user-images.githubusercontent.com/85711507/134596785-ba9faafc-e2b6-49d7-b497-8e0ce778dea4.png">
 
 ## Summary
+The summary statistics for Suspension coil is as follows:
 
+<img width="339" alt="Screen Shot 2021-10-02 at 9 46 27 PM" src="https://user-images.githubusercontent.com/85711507/135737597-514f2481-b29c-4b9e-9a0a-0dacacd0172c.png">
 
+The above result show that the variance is 62.29356
