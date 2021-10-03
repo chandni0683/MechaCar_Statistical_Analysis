@@ -14,4 +14,9 @@ The summary statistics for Suspension coil is as follows:
 
 <img width="339" alt="Screen Shot 2021-10-02 at 9 46 27 PM" src="https://user-images.githubusercontent.com/85711507/135737597-514f2481-b29c-4b9e-9a0a-0dacacd0172c.png">
 
-The above result show that the variance is 62.29356
+The above result show that the variance is 62.29356. The below result shows that the variance for lot 3 is 170.28 which exceeds the varaince values and also does not fufill the requirement which states that the variance of suspension coils should not exceed 100 PSI.
+
+<img width="491" alt="Screen Shot 2021-10-03 at 2 34 46 PM" src="https://user-images.githubusercontent.com/85711507/135768850-1fde06fd-6e8e-4d64-bdde-6efc72d73772.png">
+
+## T-Test on Suspension coils
+
